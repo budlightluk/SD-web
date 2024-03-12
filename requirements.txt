@@ -1,0 +1,7 @@
+diffusers==0.26.3
+transformers==4.19.2
+torch==1.11.0
+torchvision==0.12.0
+torchaudio==0.11.0
+PySimpleGUI==4.55.1
+Pillow
